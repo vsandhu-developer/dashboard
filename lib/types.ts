@@ -9,7 +9,14 @@ export type PostType =
   | "LI-REFLECTION"
   | "TH-HOOK"
   | "TH-SPICY"
-  | "TH-QUESTION";
+  | "TH-QUESTION"
+  | "IG-REEL"
+  | "IG-CAROUSEL"
+  | "IG-STORY"
+  | "TT-HOOK"
+  | "TT-TALK"
+  | "YT-SHORT"
+  | "YT-LONG";
 
 export type Platform = "twitter" | "linkedin" | "threads" | "instagram" | "tiktok" | "youtube";
 
@@ -99,4 +106,65 @@ export interface CaseStudyUsageEntry {
   last_used: string | null;
   uses_this_week: number;
   uses_total: number;
+}
+
+export type IntegrationStatus = "connected" | "needs_attention" | "disconnected";
+
+export interface Integration {
+  slug: string;
+  name: string;
+  category: string;
+  status: IntegrationStatus;
+  connected_at: string;
+  last_sync: string;
+  accounts_linked: number;
+  description: string;
+}
+
+export type IdeaStatus = "queued" | "in_batch" | "shipped" | "needs_rewrite";
+export type IdeaSource = "manual" | "scraper" | "reader_reply";
+
+export interface IdeaEntry {
+  id: string;
+  title: string;
+  source: IdeaSource;
+  pillar: Pillar;
+  proof_point: string | null;
+  target_formats: PostType[];
+  score: number;
+  status: IdeaStatus;
+  notes: string;
+  shipped_on?: string;
+}
+
+export type SkillStatus = "healthy" | "degraded" | "offline";
+
+export interface SkillEntry {
+  slug: string;
+  name: string;
+  category: string;
+  owner_agent: string;
+  description: string;
+  last_run: string;
+  runs_7d: number;
+  avg_runtime_s: number;
+  status: SkillStatus;
+}
+
+export type EngagementType = "comment" | "repost" | "dm";
+
+export interface EngagementAction {
+  timestamp: string;
+  type: EngagementType;
+  platform: Platform;
+  target_account: string;
+  target_post_url: string | null;
+  body: string;
+  status: string;
+}
+
+export interface EngagementLog {
+  budgets: { comments_per_day: number; reposts_per_day: number; dms_per_day: number };
+  totals_7d: { comments: number; reposts: number; dms: number; reply_rate_pct: number };
+  recent: EngagementAction[];
 }

@@ -1,7 +1,17 @@
 import fs from "node:fs";
 import path from "node:path";
 import { CONTENT_DIR } from "./config";
-import type { Asset, DailyLog, PillarCoverage, Pillar, CaseStudyUsageEntry } from "./types";
+import type {
+  Asset,
+  DailyLog,
+  PillarCoverage,
+  Pillar,
+  CaseStudyUsageEntry,
+  Integration,
+  IdeaEntry,
+  SkillEntry,
+  EngagementLog,
+} from "./types";
 
 const PILLAR_TARGETS: Record<Pillar, number> = {
   "AI Agents & Automation": 0.35,
@@ -68,6 +78,49 @@ export function readAssetsLibrary(): Asset[] {
     return data.assets || [];
   } catch {
     return [];
+  }
+}
+
+export function readIntegrations(): Integration[] {
+  const p = path.join(CONTENT_DIR, "integrations.json");
+  if (!fs.existsSync(p)) return [];
+  try {
+    const data = JSON.parse(fs.readFileSync(p, "utf-8"));
+    return data.integrations || [];
+  } catch {
+    return [];
+  }
+}
+
+export function readIdeationQueue(): IdeaEntry[] {
+  const p = path.join(CONTENT_DIR, "ideation.json");
+  if (!fs.existsSync(p)) return [];
+  try {
+    const data = JSON.parse(fs.readFileSync(p, "utf-8"));
+    return data.ideas || [];
+  } catch {
+    return [];
+  }
+}
+
+export function readSkillsRegistry(): SkillEntry[] {
+  const p = path.join(CONTENT_DIR, "skills.json");
+  if (!fs.existsSync(p)) return [];
+  try {
+    const data = JSON.parse(fs.readFileSync(p, "utf-8"));
+    return data.skills || [];
+  } catch {
+    return [];
+  }
+}
+
+export function readEngagementLog(): EngagementLog | null {
+  const p = path.join(CONTENT_DIR, "engagement-log.json");
+  if (!fs.existsSync(p)) return null;
+  try {
+    return JSON.parse(fs.readFileSync(p, "utf-8"));
+  } catch {
+    return null;
   }
 }
 
