@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 
-export const REPO_ROOT = path.resolve(process.cwd(), "..");
+export const REPO_ROOT = process.cwd();
 export const CONTENT_DIR = path.join(REPO_ROOT, "content");
 export const TEMPLATES_DIR = path.join(REPO_ROOT, "templates");
 export const VOICE_DIR = path.join(REPO_ROOT, "voice");

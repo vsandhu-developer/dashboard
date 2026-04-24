@@ -1,0 +1,136 @@
+{
+  "skills": [
+    {
+      "slug": "daily",
+      "name": "/daily",
+      "category": "orchestration",
+      "owner_agent": "orchestrator",
+      "description": "Runs the full daily batch: pulls ideation queue, picks top-N ideas, drafts across platforms, scores, and schedules into Postsyncer.",
+      "last_run": "2026-04-24T06:00:00-04:00",
+      "runs_7d": 7,
+      "avg_runtime_s": 312,
+      "status": "healthy"
+    },
+    {
+      "slug": "ideate",
+      "name": "/ideate",
+      "category": "research",
+      "owner_agent": "researcher",
+      "description": "Pulls from scraper + validator, merges with manual ideas, returns a ranked queue with pillar tags and proof points.",
+      "last_run": "2026-04-24T05:58:00-04:00",
+      "runs_7d": 14,
+      "avg_runtime_s": 48,
+      "status": "healthy"
+    },
+    {
+      "slug": "write",
+      "name": "/write",
+      "category": "writing",
+      "owner_agent": "writer",
+      "description": "Drafts a post in Vishal's voice. Accepts an idea + target platform. Enforces pillar, funnel, and proof-point constraints.",
+      "last_run": "2026-04-24T06:03:00-04:00",
+      "runs_7d": 41,
+      "avg_runtime_s": 22,
+      "status": "healthy"
+    },
+    {
+      "slug": "hook",
+      "name": "/hook",
+      "category": "writing",
+      "owner_agent": "writer",
+      "description": "Generates 5 hook variants per draft. Scores each against the top-100 engagement sample from the scraper.",
+      "last_run": "2026-04-24T06:09:00-04:00",
+      "runs_7d": 38,
+      "avg_runtime_s": 14,
+      "status": "healthy"
+    },
+    {
+      "slug": "score",
+      "name": "/score",
+      "category": "validation",
+      "owner_agent": "validator",
+      "description": "Rates a draft 0–10 across hook strength, proof density, CTA clarity, and voice fit. Flags anything below 6.",
+      "last_run": "2026-04-24T06:14:00-04:00",
+      "runs_7d": 41,
+      "avg_runtime_s": 9,
+      "status": "healthy"
+    },
+    {
+      "slug": "asset",
+      "name": "/asset",
+      "category": "asset-ops",
+      "owner_agent": "asset-builder",
+      "description": "Generates a PDF / checklist / template pack for a funnel keyword. Uploads to Vercel Blob and links it in the asset library.",
+      "last_run": "2026-04-22T14:42:00-04:00",
+      "runs_7d": 2,
+      "avg_runtime_s": 84,
+      "status": "healthy"
+    },
+    {
+      "slug": "schedule",
+      "name": "/schedule",
+      "category": "scheduling",
+      "owner_agent": "scheduler",
+      "description": "Pushes approved drafts to Postsyncer with per-platform slot timing. Retries on rate-limit errors.",
+      "last_run": "2026-04-24T06:18:00-04:00",
+      "runs_7d": 7,
+      "avg_runtime_s": 17,
+      "status": "healthy"
+    },
+    {
+      "slug": "engage",
+      "name": "/engage",
+      "category": "engagement",
+      "owner_agent": "engager",
+      "description": "Runs the comment / repost / DM budget for the day against the Watchlist. Uses Claude-in-Chrome MCP for no-API platforms.",
+      "last_run": "2026-04-24T07:42:00-04:00",
+      "runs_7d": 21,
+      "avg_runtime_s": 56,
+      "status": "healthy"
+    },
+    {
+      "slug": "revise",
+      "name": "/revise",
+      "category": "writing",
+      "owner_agent": "writer",
+      "description": "Accepts human feedback on a draft and rewrites. Maintains pillar + funnel constraints.",
+      "last_run": "2026-04-24T08:02:00-04:00",
+      "runs_7d": 9,
+      "avg_runtime_s": 11,
+      "status": "healthy"
+    },
+    {
+      "slug": "voice-check",
+      "name": "/voice-check",
+      "category": "validation",
+      "owner_agent": "validator",
+      "description": "Cross-references a draft against voice/ library samples. Flags AI-tells (em-dashes, 'delve', 'leverage', etc).",
+      "last_run": "2026-04-24T06:12:00-04:00",
+      "runs_7d": 41,
+      "avg_runtime_s": 6,
+      "status": "healthy"
+    },
+    {
+      "slug": "report",
+      "name": "/report",
+      "category": "analytics",
+      "owner_agent": "orchestrator",
+      "description": "Weekly pillar-mix and engagement budget report. Posts summary to Slack.",
+      "last_run": "2026-04-21T09:00:00-04:00",
+      "runs_7d": 1,
+      "avg_runtime_s": 22,
+      "status": "degraded"
+    },
+    {
+      "slug": "reclaim",
+      "name": "/reclaim",
+      "category": "engagement",
+      "owner_agent": "engager",
+      "description": "Re-engages inbound DMs that went quiet for >72h. Sends a single contextual follow-up, then stops.",
+      "last_run": "2026-04-23T18:30:00-04:00",
+      "runs_7d": 3,
+      "avg_runtime_s": 19,
+      "status": "healthy"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "assets": [
+    {
+      "slug": "ai-agent-stack-2026",
+      "title": "The AI Agent Stack (2026 edition)",
+      "type": "pdf-guide",
+      "path": "assets/ai-agent-stack-2026.pdf",
+      "created": "2026-03-02",
+      "used_by_posts": [10241, 10258, 10277, 10301, 10318],
+      "funnel_keyword": "STACK",
+      "tied_to_product": "upliftai"
+    },
+    {
+      "slug": "whatsapp-agent-playbook",
+      "title": "WhatsApp Sales Agent Playbook",
+      "type": "pdf-guide",
+      "path": "assets/whatsapp-agent-playbook.pdf",
+      "created": "2026-02-14",
+      "used_by_posts": [10199, 10234, 10262, 10295],
+      "funnel_keyword": "WHATSAPP",
+      "tied_to_product": "upliftai"
+    },
+    {
+      "slug": "voice-agent-checklist",
+      "title": "Voice Agent Launch Checklist (37 items)",
+      "type": "checklist",
+      "path": "assets/voice-agent-checklist.pdf",
+      "created": "2026-01-22",
+      "used_by_posts": [10156, 10203, 10249, 10288],
+      "funnel_keyword": "VOICE",
+      "tied_to_product": "upliftai"
+    },
+    {
+      "slug": "agency-to-product-template",
+      "title": "Agency → Product Transition Template Pack",
+      "type": "template-pack",
+      "path": "assets/agency-to-product-template.zip",
+      "created": "2025-12-08",
+      "used_by_posts": [10098, 10145, 10221, 10274],
+      "funnel_keyword": "PIVOT",
+      "tied_to_product": "codepaper"
+    },
+    {
+      "slug": "claude-code-prompts",
+      "title": "Claude Code Prompts I Use Every Day",
+      "type": "doc",
+      "path": "assets/claude-code-prompts.md",
+      "created": "2026-02-28",
+      "used_by_posts": [10226, 10257, 10290, 10316],
+      "funnel_keyword": "PROMPTS",
+      "tied_to_product": "codepaper-ai"
+    },
+    {
+      "slug": "proptech-automation-brief",
+      "title": "Proptech Automation Brief — Houseup teardown",
+      "type": "pdf-guide",
+      "path": "assets/proptech-automation-brief.pdf",
+      "created": "2026-03-18",
+      "used_by_posts": [10280, 10299, 10321],
+      "funnel_keyword": "PROPTECH",
+      "tied_to_product": "none"
+    },
+    {
+      "slug": "cleaner-crm-template",
+      "title": "Cleaning Business CRM Template (Robinhood setup)",
+      "type": "template-pack",
+      "path": "assets/cleaner-crm-template.zip",
+      "created": "2025-11-15",
+      "used_by_posts": [10067, 10122, 10189, 10244, 10303],
+      "funnel_keyword": "CLEAN",
+      "tied_to_product": "none"
+    },
+    {
+      "slug": "founder-ops-checklist",
+      "title": "Solo Founder Ops Checklist",
+      "type": "checklist",
+      "path": "assets/founder-ops-checklist.pdf",
+      "created": "2026-01-05",
+      "used_by_posts": [10134, 10188, 10232, 10291, 10319],
+      "funnel_keyword": "OPS",
+      "tied_to_product": "codepaper"
+    }
+  ]
+}

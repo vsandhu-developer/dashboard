@@ -1,0 +1,101 @@
+{
+  "date": "2026-04-21",
+  "anchor": "Realtor teams are a WhatsApp-agent goldmine",
+  "top_score": 8,
+  "posts": [
+    {
+      "type": "X-THREAD",
+      "platform": "twitter",
+      "postsyncer_id": 10290,
+      "scheduled": "2026-04-21T08:15:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "WHATSAPP",
+      "asset": "whatsapp-agent-playbook",
+      "pillar": "Client Work",
+      "proof_point": "realtor",
+      "body_preview": "A Toronto realtor team was losing ~40% of inbound leads overnight. Not because of the leads. Because of the agents (the human ones).\n\nI shipped them a WhatsApp agent. Here's what happened in 60 days 👇"
+    },
+    {
+      "type": "LI-LONGFORM",
+      "platform": "linkedin",
+      "postsyncer_id": 10291,
+      "scheduled": "2026-04-21T09:45:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "OPS",
+      "asset": "founder-ops-checklist",
+      "pillar": "Agency & Founder Lessons",
+      "body_preview": "My solo-founder ops stack, April 2026. I run a services agency, a product (UpliftAI), and a catering business. Here's exactly what my week looks like — scheduled to the 30-minute block."
+    },
+    {
+      "type": "X-TIP",
+      "platform": "twitter",
+      "postsyncer_id": 10292,
+      "scheduled": "2026-04-21T11:30:00-04:00",
+      "status": "published",
+      "funnel": "B",
+      "pillar": "AI Agents & Automation",
+      "body_preview": "Tip: name your agents. Seriously. 'Houseup's intake bot' is forgettable. 'Maya' is not. Users trust things with names. Even when they know it's software."
+    },
+    {
+      "type": "TH-HOOK",
+      "platform": "threads",
+      "postsyncer_id": 10293,
+      "scheduled": "2026-04-21T13:45:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "STACK",
+      "asset": "ai-agent-stack-2026",
+      "pillar": "UpliftAI",
+      "proof_point": "upliftai",
+      "body_preview": "The stack we use at UpliftAI has 4 layers. Most agencies are only building layer 2. That's why their agents feel dumb."
+    },
+    {
+      "type": "X-REPLY-BAIT",
+      "platform": "twitter",
+      "postsyncer_id": 10294,
+      "scheduled": "2026-04-21T17:00:00-04:00",
+      "status": "published",
+      "funnel": "D",
+      "pillar": "AI Agents & Automation",
+      "body_preview": "Which part of your business would you automate first if you had zero skill limits?\n\nI'm collecting answers for a playbook."
+    },
+    {
+      "type": "LI-REFLECTION",
+      "platform": "linkedin",
+      "postsyncer_id": 10295,
+      "scheduled": "2026-04-21T19:00:00-04:00",
+      "status": "published",
+      "funnel": "B",
+      "pillar": "Hospitality",
+      "body_preview": "Catered a 60-person wedding tonight. Agent took the booking, auto-generated the invoice, and sent the delivery confirmation. First time I've run an event without touching email once."
+    },
+    {
+      "type": "IG-REEL",
+      "platform": "instagram",
+      "postsyncer_id": 10337,
+      "scheduled": "2026-04-21T12:00:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "WHATSAPP",
+      "asset": "whatsapp-agent-playbook",
+      "pillar": "Client Work",
+      "proof_point": "realtor",
+      "body_preview": "Toronto realtor team was losing 40% of inbound leads overnight. I shipped a WhatsApp agent and the funnel flipped. Watch the bot qualify a lead in real time."
+    },
+    {
+      "type": "YT-LONG",
+      "platform": "youtube",
+      "postsyncer_id": 10338,
+      "scheduled": "2026-04-21T18:30:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "WHATSAPP",
+      "asset": "whatsapp-agent-playbook",
+      "pillar": "Client Work",
+      "proof_point": "realtor",
+      "body_preview": "I built a WhatsApp agent for a Toronto realtor team (full 22-minute walkthrough). Screen recording of every flow — qualification, showing booking, objection handling. Stack + prompts in the description."
+    }
+  ]
+}

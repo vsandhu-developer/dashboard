@@ -1,0 +1,193 @@
+{
+  "workspace": {
+    "id": 4812,
+    "name": "VishalAI — Social Engine",
+    "type": "operator",
+    "timezone": "America/Toronto",
+    "credits": 184,
+    "accounts": [
+      {
+        "id": 91021,
+        "platform": "twitter",
+        "username": "Vishalaii",
+        "name": "Vishal Patel",
+        "avatar": "/avatars/x.png",
+        "has_expired": false,
+        "is_default": true,
+        "is_verified": true
+      },
+      {
+        "id": 91022,
+        "platform": "linkedin",
+        "username": null,
+        "name": "Vishal Patel",
+        "avatar": "/avatars/li.png",
+        "has_expired": false,
+        "is_default": false,
+        "is_verified": true
+      },
+      {
+        "id": 91023,
+        "platform": "threads",
+        "username": "vishall.ai",
+        "name": "Vishal Patel",
+        "avatar": "/avatars/threads.png",
+        "has_expired": false,
+        "is_default": false,
+        "is_verified": false
+      },
+      {
+        "id": 91024,
+        "platform": "instagram",
+        "username": "vishall.ai",
+        "name": "Vishal Patel",
+        "avatar": "/avatars/ig.png",
+        "has_expired": false,
+        "is_default": false,
+        "is_verified": false
+      },
+      {
+        "id": 91025,
+        "platform": "tiktok",
+        "username": "vishall.ai",
+        "name": "Vishal Patel",
+        "avatar": "/avatars/tt.png",
+        "has_expired": false,
+        "is_default": false,
+        "is_verified": false
+      },
+      {
+        "id": 91026,
+        "platform": "youtube",
+        "username": null,
+        "name": "Vishal Patel",
+        "avatar": "/avatars/yt.png",
+        "has_expired": false,
+        "is_default": false,
+        "is_verified": false
+      }
+    ]
+  },
+  "integrations": [
+    {
+      "slug": "postsyncer",
+      "name": "Postsyncer",
+      "category": "scheduling",
+      "status": "connected",
+      "connected_at": "2025-11-14",
+      "last_sync": "2026-04-24T08:12:00-04:00",
+      "accounts_linked": 6,
+      "description": "Multi-platform post scheduler. Pushes the daily batch to X, LinkedIn, Threads, IG, TikTok, and YouTube."
+    },
+    {
+      "slug": "claude-chrome-mcp",
+      "name": "Claude in Chrome (MCP)",
+      "category": "automation",
+      "status": "connected",
+      "connected_at": "2026-01-09",
+      "last_sync": "2026-04-24T07:58:00-04:00",
+      "accounts_linked": 2,
+      "description": "Browser MCP for comment + repost actions on X and LinkedIn where APIs don't reach."
+    },
+    {
+      "slug": "openai",
+      "name": "OpenAI",
+      "category": "llm",
+      "status": "connected",
+      "connected_at": "2025-10-02",
+      "last_sync": "2026-04-24T08:30:00-04:00",
+      "accounts_linked": 1,
+      "description": "Fallback model for draft scoring + image alt text. Primary model is Claude."
+    },
+    {
+      "slug": "anthropic",
+      "name": "Anthropic (Claude)",
+      "category": "llm",
+      "status": "connected",
+      "connected_at": "2025-09-18",
+      "last_sync": "2026-04-24T08:30:00-04:00",
+      "accounts_linked": 1,
+      "description": "Primary LLM for writing, voice matching, and the /daily orchestration."
+    },
+    {
+      "slug": "upstash-redis",
+      "name": "Upstash Redis",
+      "category": "storage",
+      "status": "connected",
+      "connected_at": "2026-02-03",
+      "last_sync": "2026-04-24T08:29:00-04:00",
+      "accounts_linked": 1,
+      "description": "Rate-limit counters for comment/repost/DM budgets. Short-TTL caches for the scraper."
+    },
+    {
+      "slug": "neon-postgres",
+      "name": "Neon Postgres",
+      "category": "storage",
+      "status": "connected",
+      "connected_at": "2026-02-03",
+      "last_sync": "2026-04-24T08:29:00-04:00",
+      "accounts_linked": 1,
+      "description": "Source of truth for post logs, asset catalog, and case-study usage counters."
+    },
+    {
+      "slug": "vercel-blob",
+      "name": "Vercel Blob",
+      "category": "storage",
+      "status": "connected",
+      "connected_at": "2026-03-04",
+      "last_sync": "2026-04-23T22:10:00-04:00",
+      "accounts_linked": 1,
+      "description": "Hosts PDF lead magnets and carousel renders. Signed URLs for funnel-keyword DMs."
+    },
+    {
+      "slug": "apify",
+      "name": "Apify",
+      "category": "scraping",
+      "status": "connected",
+      "connected_at": "2026-01-22",
+      "last_sync": "2026-04-24T06:00:00-04:00",
+      "accounts_linked": 1,
+      "description": "Headless scrape actors for IG, YouTube Shorts, and Reddit. Feeds the validator agent."
+    },
+    {
+      "slug": "slack",
+      "name": "Slack",
+      "category": "notifications",
+      "status": "needs_attention",
+      "connected_at": "2025-12-11",
+      "last_sync": "2026-04-19T11:04:00-04:00",
+      "accounts_linked": 1,
+      "description": "Daily-batch notifications. Webhook expired — reconnect from Settings."
+    },
+    {
+      "slug": "resend",
+      "name": "Resend",
+      "category": "email",
+      "status": "connected",
+      "connected_at": "2026-02-28",
+      "last_sync": "2026-04-24T07:45:00-04:00",
+      "accounts_linked": 1,
+      "description": "Transactional email for funnel-keyword asset delivery (STACK, WHATSAPP, VOICE, etc)."
+    },
+    {
+      "slug": "stripe",
+      "name": "Stripe",
+      "category": "billing",
+      "status": "connected",
+      "connected_at": "2025-08-30",
+      "last_sync": "2026-04-24T05:30:00-04:00",
+      "accounts_linked": 1,
+      "description": "UpliftAI subscription billing + one-time asset-pack purchases."
+    },
+    {
+      "slug": "typefully",
+      "name": "Typefully",
+      "category": "scheduling",
+      "status": "disconnected",
+      "connected_at": "2025-07-12",
+      "last_sync": "2025-11-14T00:00:00-05:00",
+      "accounts_linked": 0,
+      "description": "Retired after Postsyncer migration. Kept here for audit history."
+    }
+  ]
+}

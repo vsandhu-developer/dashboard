@@ -1,0 +1,140 @@
+{
+  "updated_at": "2026-04-24T08:00:00-04:00",
+  "ideas": [
+    {
+      "id": "idea-20260424-01",
+      "title": "Voice agent ate the dental front desk — P&L teardown",
+      "source": "manual",
+      "pillar": "Client Work",
+      "proof_point": "dental",
+      "target_formats": ["X-THREAD", "LI-LONGFORM"],
+      "score": 9.2,
+      "status": "in_batch",
+      "notes": "Pairs with today's anchor. Lead with the 38% receptionist job decline stat."
+    },
+    {
+      "id": "idea-20260424-02",
+      "title": "Why 'AI-first' is a nothing phrase in 2026",
+      "source": "manual",
+      "pillar": "Contrarian Takes",
+      "proof_point": null,
+      "target_formats": ["X-HOT-TAKE", "TH-SPICY"],
+      "score": 8.4,
+      "status": "queued",
+      "notes": "Reframe around 'agent-tested' vs 'AI-first.' Tie to 3rd-edge-case failure pattern."
+    },
+    {
+      "id": "idea-20260424-03",
+      "title": "Solo founder ops: the 30-min block calendar",
+      "source": "reader_reply",
+      "pillar": "Agency & Founder Lessons",
+      "proof_point": null,
+      "target_formats": ["LI-LONGFORM", "LI-CAROUSEL"],
+      "score": 8.1,
+      "status": "queued",
+      "notes": "3 readers asked for the calendar screenshot. High demand signal."
+    },
+    {
+      "id": "idea-20260423-04",
+      "title": "GTA pest control case study — SMS agent that 2.2x revenue",
+      "source": "scraper",
+      "pillar": "Client Work",
+      "proof_point": "pestcontrol",
+      "target_formats": ["X-THREAD", "LI-CAROUSEL"],
+      "score": 7.9,
+      "status": "queued",
+      "notes": "Underused case study. Pair with Matt Gray's SMB angle on LinkedIn."
+    },
+    {
+      "id": "idea-20260423-05",
+      "title": "Claude Code prompts I use every day — 2026 update",
+      "source": "manual",
+      "pillar": "AI Agents & Automation",
+      "proof_point": null,
+      "target_formats": ["LI-REFLECTION", "X-TIP"],
+      "score": 7.6,
+      "status": "queued",
+      "notes": "34 prompts now. Post the full list as a reply, lead with top 5."
+    },
+    {
+      "id": "idea-20260423-06",
+      "title": "Agency → product pivot: the financial model",
+      "source": "manual",
+      "pillar": "Agency & Founder Lessons",
+      "proof_point": "upliftai",
+      "target_formats": ["LI-LONGFORM"],
+      "score": 7.5,
+      "status": "queued",
+      "notes": "Map 6-month agency cash flow funding 3-month product sprints. Concrete numbers."
+    },
+    {
+      "id": "idea-20260422-07",
+      "title": "The proptech moat is the inbox, not the listing engine",
+      "source": "manual",
+      "pillar": "Contrarian Takes",
+      "proof_point": "houseup",
+      "target_formats": ["X-THREAD"],
+      "score": 7.1,
+      "status": "shipped",
+      "shipped_on": "2026-04-22",
+      "notes": "Performed well (~32K impressions). Next version should include a screenshot."
+    },
+    {
+      "id": "idea-20260422-08",
+      "title": "Catering an 80-person event with zero inbox touches",
+      "source": "manual",
+      "pillar": "Hospitality",
+      "proof_point": null,
+      "target_formats": ["TH-HOOK", "LI-REFLECTION"],
+      "score": 6.8,
+      "status": "queued",
+      "notes": "Operator-range signal only. Light cadence — not for the main feed."
+    },
+    {
+      "id": "idea-20260421-09",
+      "title": "Why naming your agent matters (Maya outperformed Bot 3:1)",
+      "source": "reader_reply",
+      "pillar": "AI Agents & Automation",
+      "proof_point": "realtor",
+      "target_formats": ["X-TIP", "TH-HOOK"],
+      "score": 6.7,
+      "status": "queued",
+      "notes": "Real A/B data from the Realtor team build. Strong proof."
+    },
+    {
+      "id": "idea-20260421-10",
+      "title": "The 4-layer AI agent stack nobody is fully using",
+      "source": "scraper",
+      "pillar": "UpliftAI",
+      "proof_point": "upliftai",
+      "target_formats": ["TH-HOOK", "LI-CAROUSEL"],
+      "score": 6.5,
+      "status": "shipped",
+      "shipped_on": "2026-04-21",
+      "notes": "Gated with STACK keyword. 41 DMs from comment-to-asset flow."
+    },
+    {
+      "id": "idea-20260420-11",
+      "title": "Stop leading agency pitches with tool names",
+      "source": "manual",
+      "pillar": "Agency & Founder Lessons",
+      "proof_point": null,
+      "target_formats": ["LI-REFLECTION", "X-HOT-TAKE"],
+      "score": 6.2,
+      "status": "shipped",
+      "shipped_on": "2026-04-22",
+      "notes": "Short, punchy. Drove 12 inbound DMs."
+    },
+    {
+      "id": "idea-20260419-12",
+      "title": "Pest control is the best PMF test for AI services",
+      "source": "manual",
+      "pillar": "Contrarian Takes",
+      "proof_point": "pestcontrol",
+      "target_formats": ["TH-SPICY"],
+      "score": 5.9,
+      "status": "needs_rewrite",
+      "notes": "First draft reads too cynical. Rewrite with a 'boring-is-a-moat' frame."
+    }
+  ]
+}

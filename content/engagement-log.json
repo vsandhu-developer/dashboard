@@ -1,0 +1,123 @@
+{
+  "budgets": {
+    "comments_per_day": 15,
+    "reposts_per_day": 5,
+    "dms_per_day": 20
+  },
+  "totals_7d": {
+    "comments": 74,
+    "reposts": 19,
+    "dms": 41,
+    "reply_rate_pct": 58
+  },
+  "recent": [
+    {
+      "timestamp": "2026-04-24T07:42:00-04:00",
+      "type": "comment",
+      "platform": "twitter",
+      "target_account": "PrajwalTomar_",
+      "target_post_url": "https://x.com/PrajwalTomar_/status/1781234567890",
+      "body": "Agree — most 'agents' are just retry loops. The ones that ship have guardrails on tool calls, not just prompt fences.",
+      "status": "posted"
+    },
+    {
+      "timestamp": "2026-04-24T07:18:00-04:00",
+      "type": "comment",
+      "platform": "linkedin",
+      "target_account": "Justin Welsh",
+      "target_post_url": "https://linkedin.com/posts/justinwelsh_solopreneur-abc",
+      "body": "Ran three businesses from a single Claude Code session this week. The context window is the new CRM.",
+      "status": "posted"
+    },
+    {
+      "timestamp": "2026-04-24T06:55:00-04:00",
+      "type": "repost",
+      "platform": "twitter",
+      "target_account": "irentdumpsters",
+      "target_post_url": "https://x.com/irentdumpsters/status/1781221110009",
+      "body": "Bookmarking this — exactly how I frame AI ops to blue-collar founders.",
+      "status": "posted"
+    },
+    {
+      "timestamp": "2026-04-23T21:04:00-04:00",
+      "type": "dm",
+      "platform": "twitter",
+      "target_account": "new_follower_824",
+      "target_post_url": null,
+      "body": "Hey — saw you replied 'STACK' on the thread. Here's the 2026 AI Agent Stack guide: <signed link>. Tell me which layer you're stuck on.",
+      "status": "delivered"
+    },
+    {
+      "timestamp": "2026-04-23T20:11:00-04:00",
+      "type": "comment",
+      "platform": "threads",
+      "target_account": "danmartell",
+      "target_post_url": "https://threads.net/@danmartell/post/3xyz",
+      "body": "Framework works for services too — just replace 'hire' with 'deploy agent.'",
+      "status": "posted"
+    },
+    {
+      "timestamp": "2026-04-23T17:29:00-04:00",
+      "type": "dm",
+      "platform": "linkedin",
+      "target_account": "Inbound VIP — GTA realtor",
+      "target_post_url": null,
+      "body": "Loved the WhatsApp agent thread. Sending the Playbook and a quick 3-step we could pilot at your brokerage.",
+      "status": "delivered"
+    },
+    {
+      "timestamp": "2026-04-23T14:10:00-04:00",
+      "type": "comment",
+      "platform": "linkedin",
+      "target_account": "Greg Isenberg",
+      "target_post_url": "https://linkedin.com/posts/gregisenberg_community-abc",
+      "body": "This is the community-ops angle nobody talks about. Built a version for a reno client last month — same pattern, 4 DMs/day average.",
+      "status": "posted"
+    },
+    {
+      "timestamp": "2026-04-23T11:02:00-04:00",
+      "type": "repost",
+      "platform": "threads",
+      "target_account": "alexhormozi",
+      "target_post_url": "https://threads.net/@alexhormozi/post/9xyz",
+      "body": "Proof-point density. My whole content system is built on this idea.",
+      "status": "posted"
+    },
+    {
+      "timestamp": "2026-04-23T09:44:00-04:00",
+      "type": "comment",
+      "platform": "twitter",
+      "target_account": "neilpatel",
+      "target_post_url": "https://x.com/neilpatel/status/1780998877665",
+      "body": "The opposite is also interesting — AI is eating SEO, but the businesses winning are doubling down on owned audiences.",
+      "status": "posted"
+    },
+    {
+      "timestamp": "2026-04-22T22:30:00-04:00",
+      "type": "dm",
+      "platform": "twitter",
+      "target_account": "new_follower_821",
+      "target_post_url": null,
+      "body": "Thanks for replying 'VOICE' — here's the Voice Agent Launch Checklist (37 items): <signed link>.",
+      "status": "delivered"
+    },
+    {
+      "timestamp": "2026-04-22T19:18:00-04:00",
+      "type": "comment",
+      "platform": "linkedin",
+      "target_account": "Matt Gray",
+      "target_post_url": "https://linkedin.com/posts/mattgray_sms-abc",
+      "body": "SMB economics shift the moment you price per outcome, not per hour. Learned this after year 2.",
+      "status": "posted"
+    },
+    {
+      "timestamp": "2026-04-22T14:02:00-04:00",
+      "type": "repost",
+      "platform": "linkedin",
+      "target_account": "Jasmin Alić",
+      "target_post_url": "https://linkedin.com/posts/jasminalic_hooks-abc",
+      "body": "Hook engineering, applied. Saving.",
+      "status": "posted"
+    }
+  ]
+}

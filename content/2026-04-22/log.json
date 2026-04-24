@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-22",
+  "anchor": "Houseup — the proptech stack nobody is copying yet",
+  "top_score": 8,
+  "posts": [
+    {
+      "type": "X-THREAD",
+      "platform": "twitter",
+      "postsyncer_id": 10302,
+      "scheduled": "2026-04-22T08:30:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "PROPTECH",
+      "asset": "proptech-automation-brief",
+      "pillar": "Client Work",
+      "proof_point": "houseup",
+      "body_preview": "I spent 6 months inside Houseup's ops, rebuilding their property-matching engine.\n\nThe thing I learned: proptech founders keep trying to out-Zillow Zillow. The real moat is boring. It's the inbox.\n\nHere's what we shipped 👇"
+    },
+    {
+      "type": "LI-CAROUSEL",
+      "platform": "linkedin",
+      "postsyncer_id": 10303,
+      "scheduled": "2026-04-22T09:30:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "CLEAN",
+      "asset": "cleaner-crm-template",
+      "pillar": "UpliftAI",
+      "proof_point": "robinhood",
+      "body_preview": "The CRM template that powered a $40K → $1M ARR cleaning business.\n\n8 slides. Every tab, every automation, every trigger. Free download in the comments."
+    },
+    {
+      "type": "X-HOT-TAKE",
+      "platform": "twitter",
+      "postsyncer_id": 10304,
+      "scheduled": "2026-04-22T12:00:00-04:00",
+      "status": "published",
+      "funnel": "C",
+      "pillar": "Contrarian Takes",
+      "body_preview": "Unpopular: 'AI-first' is a nothing phrase. Everything is AI-first now. The question is whether your agent can survive the third edge case your users throw at it."
+    },
+    {
+      "type": "TH-SPICY",
+      "platform": "threads",
+      "postsyncer_id": 10305,
+      "scheduled": "2026-04-22T14:30:00-04:00",
+      "status": "published",
+      "funnel": "D",
+      "pillar": "Contrarian Takes",
+      "proof_point": "pestcontrol",
+      "body_preview": "I 2x'd a pest control company's revenue in 90 days with an SMS agent. Nobody wants to read about pest control. Everyone wants to read about AI. This is the mistake."
+    },
+    {
+      "type": "LI-REFLECTION",
+      "platform": "linkedin",
+      "postsyncer_id": 10306,
+      "scheduled": "2026-04-22T16:00:00-04:00",
+      "status": "published",
+      "funnel": "B",
+      "pillar": "Agency & Founder Lessons",
+      "body_preview": "Three years running a services agency taught me one thing: the client wants the outcome, not the tool. If you lead with 'we use Claude / n8n / Retell' you've already lost the room."
+    },
+    {
+      "type": "IG-CAROUSEL",
+      "platform": "instagram",
+      "postsyncer_id": 10334,
+      "scheduled": "2026-04-22T11:45:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "PROPTECH",
+      "asset": "proptech-automation-brief",
+      "pillar": "Client Work",
+      "proof_point": "houseup",
+      "body_preview": "Proptech's real moat isn't the map view. It's the inbox. 8 slides on what we shipped for Houseup — swipe to see the agent handling a 3 AM rental enquiry end-to-end."
+    },
+    {
+      "type": "TT-TALK",
+      "platform": "tiktok",
+      "postsyncer_id": 10335,
+      "scheduled": "2026-04-22T16:30:00-04:00",
+      "status": "published",
+      "funnel": "C",
+      "pillar": "Contrarian Takes",
+      "proof_point": "houseup",
+      "body_preview": "Every proptech founder thinks they need to out-Zillow Zillow. They don't. They need an agent that replies in 30 seconds at 3 AM. 90-second rant with the data."
+    },
+    {
+      "type": "IG-STORY",
+      "platform": "instagram",
+      "postsyncer_id": 10336,
+      "scheduled": "2026-04-22T20:00:00-04:00",
+      "status": "published",
+      "funnel": "D",
+      "pillar": "Hospitality",
+      "body_preview": "Back-of-house story: prepping 60 covers tonight. Agent handled every catering intake email today — I haven't opened Gmail since 9 AM."
+    }
+  ]
+}

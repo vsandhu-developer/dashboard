@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-18",
+  "anchor": "Saturday — contrarian take on no-code agent builders",
+  "top_score": 6,
+  "posts": [
+    {
+      "type": "X-HOT-TAKE",
+      "platform": "twitter",
+      "postsyncer_id": 10258,
+      "scheduled": "2026-04-18T10:30:00-04:00",
+      "status": "published",
+      "funnel": "C",
+      "pillar": "Contrarian Takes",
+      "body_preview": "No-code agent builders are the new WordPress page builders. Cheap to start. Impossible to maintain. Your clients will call you in 9 months asking why their bot is lying to customers."
+    },
+    {
+      "type": "LI-REFLECTION",
+      "platform": "linkedin",
+      "postsyncer_id": 10259,
+      "scheduled": "2026-04-18T14:00:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "STACK",
+      "asset": "ai-agent-stack-2026",
+      "pillar": "UpliftAI",
+      "proof_point": "upliftai",
+      "body_preview": "Three months into shipping UpliftAI to real customers. What I'd tell past-me: charge more, scope less, and get paid before you build. The stack is the easy part."
+    },
+    {
+      "type": "TH-SPICY",
+      "platform": "threads",
+      "postsyncer_id": 10260,
+      "scheduled": "2026-04-18T19:00:00-04:00",
+      "status": "published",
+      "funnel": "D",
+      "pillar": "Contrarian Takes",
+      "body_preview": "Every AI agency pitch deck in 2026 opens with the same slide: 'we save you 40% on operations.' Nobody saves 40%. You save 8%, ship faster, and sleep better. Sell that."
+    },
+    {
+      "type": "TT-HOOK",
+      "platform": "tiktok",
+      "postsyncer_id": 10343,
+      "scheduled": "2026-04-18T16:00:00-04:00",
+      "status": "published",
+      "funnel": "C",
+      "pillar": "Contrarian Takes",
+      "body_preview": "No-code agent builders are 2026's WordPress page builders. Cheap to start, impossible to maintain. 45-second explainer →"
+    },
+    {
+      "type": "IG-REEL",
+      "platform": "instagram",
+      "postsyncer_id": 10344,
+      "scheduled": "2026-04-18T18:30:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "STACK",
+      "asset": "ai-agent-stack-2026",
+      "pillar": "UpliftAI",
+      "proof_point": "upliftai",
+      "body_preview": "Three months into UpliftAI. What I'd tell past-me: charge more, scope less, get paid before you build. 60-second reel with the receipts."
+    }
+  ]
+}

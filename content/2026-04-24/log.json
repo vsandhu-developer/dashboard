@@ -1,0 +1,114 @@
+{
+  "date": "2026-04-24",
+  "anchor": "Voice agents are eating the front desk — dental case study",
+  "top_score": 9,
+  "posts": [
+    {
+      "type": "X-THREAD",
+      "platform": "twitter",
+      "postsyncer_id": 10322,
+      "scheduled": "2026-04-24T08:30:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "VOICE",
+      "asset": "voice-agent-checklist",
+      "pillar": "AI Agents & Automation",
+      "proof_point": "dental",
+      "body_preview": "Dental receptionist job listings in the GTA are down 38% YoY.\n\nI know why. I built the thing that replaced them.\n\nHere's the full teardown of the voice agent we shipped for a 4-chair practice in North York 👇"
+    },
+    {
+      "type": "LI-LONGFORM",
+      "platform": "linkedin",
+      "postsyncer_id": 10323,
+      "scheduled": "2026-04-24T09:15:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "VOICE",
+      "asset": "voice-agent-checklist",
+      "pillar": "Client Work",
+      "proof_point": "dental",
+      "body_preview": "I rebuilt a dental front desk with a voice agent. Here's the P&L.\n\nBefore: 2 receptionists, $92K/yr loaded cost, 31% of after-hours calls missed.\n\nAfter: 1 receptionist, 1 voice agent, $6K/yr in compute. 94% after-hours bookings captured. Six weeks in."
+    },
+    {
+      "type": "TH-SPICY",
+      "platform": "threads",
+      "postsyncer_id": 10324,
+      "scheduled": "2026-04-24T11:00:00-04:00",
+      "status": "published",
+      "funnel": "B",
+      "funnel_keyword": "VOICE",
+      "pillar": "Contrarian Takes",
+      "proof_point": "dental",
+      "body_preview": "Dental receptionists are the new travel agents.\n\nThe job isn't 'going away.' It's already gone. Most practice owners just haven't run the math yet."
+    },
+    {
+      "type": "X-HOT-TAKE",
+      "platform": "twitter",
+      "postsyncer_id": 10325,
+      "scheduled": "2026-04-24T13:45:00-04:00",
+      "status": "scheduled",
+      "funnel": "C",
+      "pillar": "Contrarian Takes",
+      "body_preview": "Hot take: if your SaaS still needs a 'book a demo' CTA in 2026, you're not selling software. You're selling a Zoom call with bad slides."
+    },
+    {
+      "type": "LI-CAROUSEL",
+      "platform": "linkedin",
+      "postsyncer_id": 10326,
+      "scheduled": "2026-04-24T15:30:00-04:00",
+      "status": "scheduled",
+      "funnel": "A",
+      "funnel_keyword": "STACK",
+      "asset": "ai-agent-stack-2026",
+      "pillar": "UpliftAI",
+      "proof_point": "upliftai",
+      "body_preview": "The AI agent stack we run at UpliftAI (April 2026 edition).\n\n7 slides. No fluff. The tools, the costs, the 'why' for each layer. Swipe →"
+    },
+    {
+      "type": "X-REPLY-BAIT",
+      "platform": "twitter",
+      "postsyncer_id": 10327,
+      "scheduled": "2026-04-24T18:00:00-04:00",
+      "status": "scheduled",
+      "funnel": "D",
+      "pillar": "AI Agents & Automation",
+      "body_preview": "What job will AI agents eat next?\n\nI'll start: dental front desk. Already happening. Reply with yours."
+    },
+    {
+      "type": "TH-HOOK",
+      "platform": "threads",
+      "postsyncer_id": 10328,
+      "scheduled": "2026-04-24T20:15:00-04:00",
+      "status": "draft",
+      "funnel": "B",
+      "pillar": "Hospitality",
+      "body_preview": "Ran catering for 240 people tonight using an AI agent for the entire intake flow. Zero dropped emails. First time in 4 years that's been true."
+    },
+    {
+      "type": "IG-REEL",
+      "platform": "instagram",
+      "postsyncer_id": 10329,
+      "scheduled": "2026-04-24T12:30:00-04:00",
+      "status": "scheduled",
+      "funnel": "A",
+      "funnel_keyword": "VOICE",
+      "asset": "voice-agent-checklist",
+      "pillar": "Client Work",
+      "proof_point": "dental",
+      "body_preview": "POV: the dental receptionist job just got automated.\n\n60-second reel — phone rings, agent answers, books appointment, SMS confirmation fires. No human in the loop. Built this for a North York practice six weeks ago."
+    },
+    {
+      "type": "YT-SHORT",
+      "platform": "youtube",
+      "postsyncer_id": 10330,
+      "scheduled": "2026-04-24T19:00:00-04:00",
+      "status": "scheduled",
+      "funnel": "A",
+      "funnel_keyword": "VOICE",
+      "asset": "voice-agent-checklist",
+      "pillar": "AI Agents & Automation",
+      "proof_point": "dental",
+      "body_preview": "I replaced a dental receptionist with a voice agent — and it books 94% of after-hours calls. Full cost breakdown in 50 seconds. Link to the checklist in the pinned comment."
+    }
+  ]
+}

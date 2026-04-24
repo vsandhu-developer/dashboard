@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-19",
+  "anchor": "Sunday long-form — why small pest-control wins matter",
+  "top_score": 7,
+  "posts": [
+    {
+      "type": "X-THREAD",
+      "platform": "twitter",
+      "postsyncer_id": 10268,
+      "scheduled": "2026-04-19T10:00:00-04:00",
+      "status": "published",
+      "funnel": "B",
+      "pillar": "Client Work",
+      "proof_point": "pestcontrol",
+      "body_preview": "Pest control isn't sexy. Nobody tweets about it.\n\nBut we took one family-run pest control company from $36K/mo to $80K/mo in a quarter. One agent. Two automations. Here's how 👇"
+    },
+    {
+      "type": "LI-LONGFORM",
+      "platform": "linkedin",
+      "postsyncer_id": 10269,
+      "scheduled": "2026-04-19T13:30:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "OPS",
+      "asset": "founder-ops-checklist",
+      "pillar": "Agency & Founder Lessons",
+      "body_preview": "Sunday reflection — the unglamorous truth about running an AI services business in 2026. It's not about the models. It's about operating rigor. Here's my 12-item weekend checklist."
+    },
+    {
+      "type": "TH-HOOK",
+      "platform": "threads",
+      "postsyncer_id": 10270,
+      "scheduled": "2026-04-19T18:00:00-04:00",
+      "status": "published",
+      "funnel": "D",
+      "pillar": "Hospitality",
+      "body_preview": "Sunday brunch catering: 120 covers, 3 staff, 0 stress. Agent handled intake, prep list, and delivery windows. The rest was knives and butter."
+    },
+    {
+      "type": "IG-STORY",
+      "platform": "instagram",
+      "postsyncer_id": 10341,
+      "scheduled": "2026-04-19T13:00:00-04:00",
+      "status": "published",
+      "funnel": "D",
+      "pillar": "Client Work",
+      "proof_point": "pestcontrol",
+      "body_preview": "Behind-the-scenes story: screenshots of the pest-control SMS agent closing its 40th booking of the week. Nobody tweets about pest control. Everyone should."
+    },
+    {
+      "type": "YT-SHORT",
+      "platform": "youtube",
+      "postsyncer_id": 10342,
+      "scheduled": "2026-04-19T16:15:00-04:00",
+      "status": "published",
+      "funnel": "B",
+      "pillar": "Contrarian Takes",
+      "proof_point": "pestcontrol",
+      "body_preview": "Boring industries are the best PMF test for AI services. 60-second breakdown using a $36K → $80K pest-control case study."
+    }
+  ]
+}

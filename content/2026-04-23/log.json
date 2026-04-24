@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-23",
+  "anchor": "Robinhood Cleaners: $40K → $1M ARR with one WhatsApp agent",
+  "top_score": 10,
+  "posts": [
+    {
+      "type": "X-THREAD",
+      "platform": "twitter",
+      "postsyncer_id": 10312,
+      "scheduled": "2026-04-23T08:30:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "CLEAN",
+      "asset": "cleaner-crm-template",
+      "pillar": "Client Work",
+      "proof_point": "robinhood",
+      "body_preview": "A cleaning company went from $40K to $1M ARR in 14 months.\n\nThey didn't hire a sales team. They didn't run ads.\n\nThey installed one WhatsApp agent. Here's exactly what it does 👇"
+    },
+    {
+      "type": "LI-LONGFORM",
+      "platform": "linkedin",
+      "postsyncer_id": 10313,
+      "scheduled": "2026-04-23T09:20:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "WHATSAPP",
+      "asset": "whatsapp-agent-playbook",
+      "pillar": "AI Agents & Automation",
+      "proof_point": "robinhood",
+      "body_preview": "A $40K cleaning business. One WhatsApp agent. 14 months later: $1M ARR.\n\nI built the agent. I'm going to show you the conversation flows, the qualification logic, and the exact moment the owner stopped picking up his phone."
+    },
+    {
+      "type": "X-TIP",
+      "platform": "twitter",
+      "postsyncer_id": 10314,
+      "scheduled": "2026-04-23T11:30:00-04:00",
+      "status": "published",
+      "funnel": "B",
+      "pillar": "AI Agents & Automation",
+      "body_preview": "Tip: your WhatsApp agent should never say 'I'll have someone get back to you.'\n\nIf it can't close the loop, it's not an agent. It's a glorified contact form."
+    },
+    {
+      "type": "TH-QUESTION",
+      "platform": "threads",
+      "postsyncer_id": 10315,
+      "scheduled": "2026-04-23T13:00:00-04:00",
+      "status": "published",
+      "funnel": "D",
+      "pillar": "Agency & Founder Lessons",
+      "body_preview": "Honest question for service-business owners: what's the #1 task you still do manually that you know should be automated?"
+    },
+    {
+      "type": "LI-REFLECTION",
+      "platform": "linkedin",
+      "postsyncer_id": 10316,
+      "scheduled": "2026-04-23T15:45:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "PROMPTS",
+      "asset": "claude-code-prompts",
+      "pillar": "AI Agents & Automation",
+      "body_preview": "I've been keeping a running file of Claude Code prompts I actually use every day. 34 of them now. Posting the full list in the comments — it's changed how I ship."
+    },
+    {
+      "type": "X-FOUNDER-NOTE",
+      "platform": "twitter",
+      "postsyncer_id": 10317,
+      "scheduled": "2026-04-23T18:15:00-04:00",
+      "status": "published",
+      "funnel": "C",
+      "pillar": "Agency & Founder Lessons",
+      "body_preview": "Two years ago I was debating whether to hire a VA. Today I shipped 6 posts across 4 platforms, closed a 5-figure deal, and catered dinner for 80 people. No VA. Just agents."
+    },
+    {
+      "type": "IG-REEL",
+      "platform": "instagram",
+      "postsyncer_id": 10331,
+      "scheduled": "2026-04-23T12:15:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "CLEAN",
+      "asset": "cleaner-crm-template",
+      "pillar": "Client Work",
+      "proof_point": "robinhood",
+      "body_preview": "From $40K → $1M ARR in 14 months. Cleaning business. One WhatsApp agent. Reel breaks down the qualification flow in under 60 seconds."
+    },
+    {
+      "type": "TT-HOOK",
+      "platform": "tiktok",
+      "postsyncer_id": 10332,
+      "scheduled": "2026-04-23T14:30:00-04:00",
+      "status": "published",
+      "funnel": "B",
+      "pillar": "Client Work",
+      "proof_point": "robinhood",
+      "body_preview": "Cleaning company, 25x revenue, zero sales hires. I built their entire intake on WhatsApp. Here's the one conversation flow that did it →"
+    },
+    {
+      "type": "YT-SHORT",
+      "platform": "youtube",
+      "postsyncer_id": 10333,
+      "scheduled": "2026-04-23T17:00:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "WHATSAPP",
+      "asset": "whatsapp-agent-playbook",
+      "pillar": "AI Agents & Automation",
+      "proof_point": "robinhood",
+      "body_preview": "A WhatsApp agent turned a $40K cleaning business into a $1M one. 45-second walkthrough of the qualification logic. Playbook linked below."
+    }
+  ]
+}

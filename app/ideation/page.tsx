@@ -1,6 +1,7 @@
 import { Lightbulb, Sparkles, Send, PenLine, MessageCircle, Bot, Wrench } from "lucide-react";
 import { readIdeationQueue } from "@/lib/content";
 import type { IdeaEntry, IdeaStatus, IdeaSource } from "@/lib/types";
+import IdeaPromptBox from "@/components/IdeaPromptBox";
 
 export const dynamic = "force-dynamic";
 
@@ -56,6 +57,8 @@ export default function IdeationPage() {
           <Sparkles size={14} /> Run /ideate
         </button>
       </header>
+
+      <IdeaPromptBox />
 
       <section className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
         <div className="card p-5">

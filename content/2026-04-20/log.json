@@ -1,0 +1,90 @@
+{
+  "date": "2026-04-20",
+  "anchor": "GTA Renovation — AI quoting in under 60 seconds",
+  "top_score": 7,
+  "posts": [
+    {
+      "type": "X-THREAD",
+      "platform": "twitter",
+      "postsyncer_id": 10278,
+      "scheduled": "2026-04-20T08:30:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "STACK",
+      "asset": "ai-agent-stack-2026",
+      "pillar": "AI Agents & Automation",
+      "proof_point": "renovation",
+      "body_preview": "A GTA renovation company used to take 3-5 days to send a quote. Now it takes 47 seconds.\n\nI didn't build them custom software. I wired 4 existing tools together. Here's the stack 👇"
+    },
+    {
+      "type": "LI-CAROUSEL",
+      "platform": "linkedin",
+      "postsyncer_id": 10279,
+      "scheduled": "2026-04-20T10:00:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "STACK",
+      "asset": "ai-agent-stack-2026",
+      "pillar": "AI Agents & Automation",
+      "proof_point": "renovation",
+      "body_preview": "From 'we'll get back to you in a week' to 'here's your quote in 60 seconds.'\n\n9 slides on the exact quoting agent we shipped to a GTA reno company. What it sees, what it asks, what it sends."
+    },
+    {
+      "type": "X-FOUNDER-NOTE",
+      "platform": "twitter",
+      "postsyncer_id": 10280,
+      "scheduled": "2026-04-20T12:30:00-04:00",
+      "status": "published",
+      "funnel": "C",
+      "pillar": "Agency & Founder Lessons",
+      "body_preview": "Monday morning journal: I used to think 'scale' meant headcount. Now I think it means how many agents you can keep pointed at the right problems at once."
+    },
+    {
+      "type": "TH-QUESTION",
+      "platform": "threads",
+      "postsyncer_id": 10281,
+      "scheduled": "2026-04-20T15:00:00-04:00",
+      "status": "published",
+      "funnel": "D",
+      "pillar": "Contrarian Takes",
+      "body_preview": "If you could only keep ONE AI tool in your stack, which would it be? I'll go first: Claude Code. Everything else is replaceable."
+    },
+    {
+      "type": "LI-LONGFORM",
+      "platform": "linkedin",
+      "postsyncer_id": 10282,
+      "scheduled": "2026-04-20T17:30:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "PIVOT",
+      "asset": "agency-to-product-template",
+      "pillar": "UpliftAI",
+      "proof_point": "upliftai",
+      "body_preview": "Year one lesson from building UpliftAI: don't kill the agency to start the product. Use the agency to fund the product. Use the product to qualify the agency. They compound."
+    },
+    {
+      "type": "IG-REEL",
+      "platform": "instagram",
+      "postsyncer_id": 10339,
+      "scheduled": "2026-04-20T11:00:00-04:00",
+      "status": "published",
+      "funnel": "A",
+      "funnel_keyword": "STACK",
+      "asset": "ai-agent-stack-2026",
+      "pillar": "Client Work",
+      "proof_point": "renovation",
+      "body_preview": "This GTA reno company used to quote in 3–5 days. Now: 47 seconds. Reel walks through the 4 tools stitched together — no custom code."
+    },
+    {
+      "type": "TT-HOOK",
+      "platform": "tiktok",
+      "postsyncer_id": 10340,
+      "scheduled": "2026-04-20T14:00:00-04:00",
+      "status": "published",
+      "funnel": "B",
+      "pillar": "AI Agents & Automation",
+      "proof_point": "renovation",
+      "body_preview": "'We'll get back to you in a week' just died. I automated a reno company's quoting in an afternoon. Here's the 4-tool stack that did it."
+    }
+  ]
+}
